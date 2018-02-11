@@ -21,12 +21,12 @@
   }
 
 .wellcom{
-    background-image: url("/img/header-bg.jpg");
+    background-image: url("../img/header-bg.jpg");
     background-size: cover;
     height: 700px;
     text-align: center;
-  color: rgb(255, 255, 255);
-  background-image: url("../img/header-bg.jpg");
+  
+  
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -34,6 +34,7 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  color: rgb(255, 255, 255);
   font-family: var(--fontChanga)
 }
 .wellcom h1{
