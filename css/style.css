@@ -11,12 +11,16 @@
 
   .navbar-brand{
       font-family: var(--fontElMessiri);
+<<<<<<< HEAD
       
+=======
+>>>>>>> c1c24fa9f103375a8d5714357bf8c07772d7ab54
   }
 
   .nav-item{
       font-family: var(--fontMirza);
       font-size: large;
+<<<<<<< HEAD
       
   }
 
@@ -27,6 +31,17 @@
     text-align: center;
   
   
+=======
+  }
+
+.wellcom{
+    background-image: url("/img/header-bg.jpg");
+    background-size: cover;
+    height: 700px;
+    text-align: center;
+  color: rgb(255, 255, 255);
+  background-image: url("../img/header-bg.jpg");
+>>>>>>> c1c24fa9f103375a8d5714357bf8c07772d7ab54
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -34,10 +49,16 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+<<<<<<< HEAD
   color: rgb(255, 255, 255);
   font-family: var(--fontChanga)
 }
 .wellcom h1{
+=======
+  font-family: var(--fontChanga)
+}
+h1{
+>>>>>>> c1c24fa9f103375a8d5714357bf8c07772d7ab54
     padding-top: 250px;
   padding-bottom: 50px;
   font-family: var(--fontChanga)
@@ -118,6 +139,7 @@
 /* services */
 
 .services{
+<<<<<<< HEAD
     margin-top: 80px;
     padding-bottom: 50px;
   font-family: var(--fontChanga)
@@ -128,6 +150,12 @@
 .services h2{
     padding-bottom: 50px;
 }
+=======
+    margin-top: 100px;
+     
+}
+
+>>>>>>> c1c24fa9f103375a8d5714357bf8c07772d7ab54
 .service-heading {
   margin: 10px 0;
   text-transform: none;
