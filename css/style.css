@@ -322,7 +322,7 @@
 .regester{
 color: snow;
 padding-top: 100px;
-  background-image: url("/img/FOOTER.jpg");
+  background-image: url("../img/FOOTER.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
