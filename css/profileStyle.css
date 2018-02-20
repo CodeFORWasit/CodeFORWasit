@@ -20,6 +20,8 @@
     background-image: url("../img/team/4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    height: 500px
+    width: 400px;
     font-family: var(--fontMirza);
 }
 .member-5 {
